@@ -2,7 +2,7 @@
 
 
 ### Get in touch : [![Gmail Badge](https://img.shields.io/badge/-bobkamichal@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bobkamichal@gmail.com)](mailto:bobkamichal@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/MichalBobka/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/MichalBobka//)](https://www.linkedin.com/in/https://www.linkedin.com/in/MichalBobka//) [![Github Badge](https://img.shields.io/badge/-https://github.com/MichalBobka-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/MichalBobka/)](https://www.github.com/https://github.com/MichalBobka/) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/MichalBobka/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/MichalBobka//)](https://www.linkedin.com/in/MichalBobka//) [![Github Badge](https://img.shields.io/badge/-https://github.com/MichalBobka-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MichalBobka/)](https://www.github.com/MichalBobka/) 
 
 Welcome to my page!
 I,m Michał , learning to be Frontend developer :mortar_board: from Tarnów, Poland 🇵🇱
