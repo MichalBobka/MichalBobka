@@ -7,19 +7,17 @@
 Welcome to my page!
 I,m Michał , learning to be Frontend developer :mortar_board: from Tarnów, Poland 🇵🇱
 
-
-
 💡 Technologies and tools : 
-- JS ![javascript-color](https://user-images.githubusercontent.com/128061513/231763016-42e21884-408d-4f4e-a052-a316f91a0260.svg)
-- HTML ![html5-color](https://user-images.githubusercontent.com/128061513/231763147-b5e1e5d5-334e-40c4-a575-c9aba866c22f.svg)
-- CSS ![css3-color](https://user-images.githubusercontent.com/128061513/231763239-ba485312-6d32-4aa5-bc3f-de6546fa3b1e.svg)
-- Sass ![sass-color](https://user-images.githubusercontent.com/128061513/231763311-37b1599f-10d1-4354-b371-778f61d5e38b.svg)
-- Bootstrap ![bootstrap-color](https://user-images.githubusercontent.com/128061513/231763769-5acc54d3-db65-4f11-9dbb-249b437115a3.svg)
-- GIT ![git-color](https://user-images.githubusercontent.com/128061513/231763880-4867113c-f0bd-48c4-8cf2-85a04ed925f9.svg)
-
+- JS ![javascript-color](https://user-images.githubusercontent.com/128061513/231765955-bcc9fd54-cfc6-4600-af8d-4c23349325c6.svg)
+- HTML ![html5-color](https://user-images.githubusercontent.com/128061513/231765926-ee4aec5a-0cff-439a-a2e5-b5e007a27af9.svg)
+- CSS ![css3-color](https://user-images.githubusercontent.com/128061513/231765892-a34ab44f-c94a-4d99-a94a-c1bdacbf399f.svg)
+- Sass 
+- Bootstrap ![bootstrap-color](https://user-images.githubusercontent.com/128061513/231765785-ba58b0d3-bc2b-4269-8c0a-0313073d45f9.svg)
+- GIT ![git-color](https://user-images.githubusercontent.com/128061513/231765825-bd49701a-0be2-46f9-bbac-a835b69ea1aa.svg)
+- 
 👨‍🎓 Technologies and tools i want to learn :
-- React ![react-color](https://user-images.githubusercontent.com/128061513/231764315-d8664454-8034-4eff-b2b6-d6f3cf08340f.svg)
-- TypeScript ![typescript-color](https://user-images.githubusercontent.com/128061513/231764443-a696f4ba-35a5-4878-95d9-ef1c3b0cfbb7.svg)
+- React ![react-color](https://user-images.githubusercontent.com/128061513/231766011-58a43413-8a7f-4e2c-ba48-5f2cb46d2d59.svg)
+- TypeScript ![typescript-color](https://user-images.githubusercontent.com/128061513/231766024-184e4619-4ca9-4903-a541-c281112edc4c.svg)
 
 
 
