@@ -11,7 +11,7 @@ I,m Michał , learning to be Frontend developer :mortar_board: from Tarnów, Pol
 - JS ![javascript-color](https://user-images.githubusercontent.com/128061513/231765955-bcc9fd54-cfc6-4600-af8d-4c23349325c6.svg)
 - HTML ![html5-color](https://user-images.githubusercontent.com/128061513/231765926-ee4aec5a-0cff-439a-a2e5-b5e007a27af9.svg)
 - CSS ![css3-color](https://user-images.githubusercontent.com/128061513/231765892-a34ab44f-c94a-4d99-a94a-c1bdacbf399f.svg)
-- Sass 
+- Sass ![sass-color](https://user-images.githubusercontent.com/128061513/231766204-c501a9d2-2dfe-4b84-b073-794168fe9470.svg)
 - Bootstrap ![bootstrap-color](https://user-images.githubusercontent.com/128061513/231765785-ba58b0d3-bc2b-4269-8c0a-0313073d45f9.svg)
 - GIT ![git-color](https://user-images.githubusercontent.com/128061513/231765825-bd49701a-0be2-46f9-bbac-a835b69ea1aa.svg)
 - 
